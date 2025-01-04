@@ -1,0 +1,1 @@
+A fun and interactive Drum Kit website built using HTML, CSS, and JavaScript. This project enables users to play drum sounds by either clicking on drum elements on the screen or pressing designated keys on their keyboard.
